@@ -12,3 +12,6 @@ link : https://github.com/REALJIFI/ziko_logistics.git
 
 Project five: Capstone NYC project(using python)
 link:https://github.com/REALJIFI/CAPSTON-NYC-PROJECT.git
+
+Project six: Clickhouse transport project(Modula coding system)
+link: https://github.com/REALJIFI/Modula_clickhouse_ETL.git
